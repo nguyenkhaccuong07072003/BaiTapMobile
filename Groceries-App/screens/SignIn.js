@@ -11,7 +11,7 @@ const SignIn = () => {
                         fontSize: 26,
                         fontWeight: "600",
                         width: 222,
-                        marginTop: 40,
+                        marginTop: -1,
                     }}
                 >
                     Get your groceries with nectar

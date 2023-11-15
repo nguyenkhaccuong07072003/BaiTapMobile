@@ -4,8 +4,8 @@ import React from "react";
 const Number = () => {
     return (
         <SafeAreaView style={{ marginHorizontal: 20, flex: 1}}>
-            <Image source={require("../assets/image/logo/back.png")} />
-            <Text style={{ fontSize: 26, fontWeight: "600", marginTop: 65 }}>
+            <Image source={require("../assets/image/logo/back.png")} style={{marginTop:20}} />
+            <Text style={{ fontSize: 26, fontWeight: "600", marginTop: 45 }}>
                 Enter your mobile number
             </Text>
             <Text
